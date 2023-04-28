@@ -1,0 +1,4 @@
+﻿  gallows2.cpp
+C:\Users\zunderz\source\repos\gallows2\gallows2\gallows2.cpp(44,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zunderz\source\repos\gallows2\gallows2\gallows2.cpp(14): warning C4715: randomTopic: значение возвращается не при всех путях выполнения
+  gallows2.vcxproj -> C:\Users\zunderz\source\repos\gallows2\x64\Debug\gallows2.exe
